@@ -1,0 +1,15 @@
+PODS:
+  - cp-sample-api (1.0.2):
+    - cp-sample-model (= 1.0.3)
+  - cp-sample-model (1.0.3)
+
+DEPENDENCIES:
+  - cp-sample-api (= 1.0.2)
+
+SPEC CHECKSUMS:
+  cp-sample-api: 947509fb65f37b1657dbd51edb0b00c6d1360ed7
+  cp-sample-model: bbfe152b5624355885ca212d27c4b2d151ff8158
+
+PODFILE CHECKSUM: a9783f7d65f2ab1c376057e3f2764b2a3df04508
+
+COCOAPODS: 1.4.0
